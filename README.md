@@ -9,7 +9,7 @@ This is a collection of static analysis tools and code quality checkers for all 
 Explanation: [OSS] stands for Open-Source-Software, [PROPRIETARY] stands for proprietary software.
 **Pull requests are very welcome!**
 
-Table of Contents
+Table of Contentsa
 -----------------
 
 - [Ada](#ada)
